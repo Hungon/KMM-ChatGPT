@@ -1,0 +1,1 @@
+/Users/koheimoroi/Git2/KmmApp/gradle/build-logic/settings-plugin/build/classes/kotlin/main/SettingsPlugin$$special$$inlined$getByType$1.class:/Users/koheimoroi/Git2/KmmApp/gradle/build-logic/settings-plugin/build/classes/kotlin/main/SettingsPlugin$apply$1$1$1.class:/Users/koheimoroi/Git2/KmmApp/gradle/build-logic/settings-plugin/build/classes/kotlin/main/SettingsPlugin.class

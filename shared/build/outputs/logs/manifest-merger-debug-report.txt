@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml:2:1-13
+INJECTED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml:2:1-13
+INJECTED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml:2:1-13
+	package
+		INJECTED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml:2:1-13
+		INJECTED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml:2:1-13
+uses-sdk
+INJECTED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/koheimoroi/Git2/KmmApp/shared/src/androidMain/AndroidManifest.xml

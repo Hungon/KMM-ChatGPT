@@ -1,0 +1,19 @@
+[versions]
+agp = "7.4.2"
+kotlin = "1.8.10"
+ktor = "2.2.4"
+kotlinSerialization = "1.8.21"
+compose = "1.4.0"
+
+[libraries]
+jetbrains-kotlinx-datetime = { group = "org.jetbrains.kotlinx", name = "kotlinx-datetime", version = "0.4.0" }
+jetbrains-kotlinx-coroutines-core = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-core", version = "1.6.4" }
+ktor-client-core = { group = "io.ktor", name = "ktor-client-core", version.ref = "ktor" }
+ktor-client-content-negotiation = { group = "io.ktor", name = "ktor-client-content-negotiation", version.ref = "ktor" }
+ktor-serialization-kotlinx-json = { group = "io.ktor", name = "ktor-serialization-kotlinx-json", version.ref = "ktor" }
+ktor-client-android = { group = "io.ktor", name = "ktor-client-android", version.ref = "ktor" }
+ktor-client-darwin = { group = "io.ktor", name = "ktor-client-darwin", version.ref = "ktor" }
+ktor-client-logging = { group = "io.ktor", name = "ktor-client-logging", version.ref = "ktor" }
+androidx-activity-activity-compose = { group = "androidx.activity", name = "activity-compose", version = "1.7.1" }
+androidx-appcompat-appcompat = { group = "androidx.appcompat", name = "appcompat", version = "1.6.1" }
+androidx-core-core-ktx = { group = "androidx.core", name = "core-ktx", version = "1.10.1" }
